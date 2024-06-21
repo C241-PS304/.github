@@ -1,7 +1,7 @@
-# C241-PS304
+# <center> C241-PS304 </center>
 ## Our Teams
 | Bangkit ID | Nama | 
-|------------|------|
+|------------| :--: |
 | (ML) M694D4KX2638 | Fathimah Azzahra |
 | (ML) M006D4KY3012 | Ariq Hafizh Baiquny |
 | (ML) M004D4KY1424 | Muhammad Fauzan Ariyatmoko |
