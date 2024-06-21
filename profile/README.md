@@ -1,5 +1,5 @@
-# <center> C241-PS304 </center>
-<img src="https://github.com/C241-PS304/mobile-development/blob/main/app/src/main/res/drawable/logo_skintrack_bgputih.png">
+<h1 align="center">C241-PS304</h1>
+<img src="https://cdn.discordapp.com/attachments/1234806913221529640/1253597630773329930/banner.png?ex=66766f45&is=66751dc5&hm=e36385fcac3ede769b796ac673164a35c48129c450ff06dec2791c5303b5395b&" width=1000 height=300 >
 
 ## Our Teams
 | Bangkit ID | Nama | 
@@ -11,3 +11,12 @@
 | (CC)  C189D4KY0081 | Abdul Mukti |
 | (MD) A694D4KY4082 | Ja'Far |
 | (MD) A183D4KY3596 | Gerald Dzulfiqar Adhitama |
+
+## Repository
+
+### Machine Learning
+- [Machine Learning Notebook & Models](https://github.com/C241-PS304/machine-learning)
+### Cloud Computing
+- [API Service](https://github.com/C241-PS304/cloud-computing)
+### Mobile Development
+- [Mobile App](https://github.com/C241-PS304/mobile-development)
