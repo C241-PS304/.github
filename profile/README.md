@@ -1,4 +1,4 @@
-<center> C241-PS304 </center>
+# <center> C241-PS304 </center>
 ## Our Teams
 | Bangkit ID | Nama | 
 |------------| :--: |
