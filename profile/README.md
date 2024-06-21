@@ -1,4 +1,5 @@
 # <center> C241-PS304 </center>
+[https://github.com/C241-PS304/mobile-development/blob/main/app/src/main/res/drawable/logo_skintrack_bgputih.png]
 ## Our Teams
 | Bangkit ID | Nama | 
 |------------| :--: |
